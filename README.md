@@ -1,2 +1,3 @@
 # Clock
-A simple clock made in python:)
+A simple clock made in python
+:)
